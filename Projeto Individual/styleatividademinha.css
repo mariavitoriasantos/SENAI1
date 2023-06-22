@@ -1,0 +1,101 @@
+/* geral */
+section{
+    padding: 2%;
+}
+.senai{
+    padding-top: 1%;
+    height: 80px;
+}
+.turma{
+    text-align: center;
+}
+.capa {
+    height: 80vh;
+    color: rgb(0, 0, 0);
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.aluno {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.mavi{
+    text-align: end;
+}
+
+.portfolio {
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.playo{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.title-grupo{
+    text-align: left;
+    flex: 1;
+}
+
+.logoplayo{
+    height: 50%;
+    display: flex;
+}
+body {
+    background: rgb(255, 255, 255);
+background: linear-gradient(0deg, rgb(255, 252, 252) 0%, rgb(255, 255, 255) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-size: 20px;
+}
+img{
+    height: 300px;
+    list-style: none;
+    gap: 100px; 
+}
+
+.grupos-title{
+    height: 80vh;
+}
+
+.grupos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+
+}
+.grupo img{
+    width: 200px;
+    height: auto;
+}
+.grup img{
+    width: 300px;
+    height: auto;
+}
