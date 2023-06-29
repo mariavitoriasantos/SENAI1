@@ -1,1 +1,58 @@
+*{
+    margin: 0%;
+}
+.capa{
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+    background-image: url(TV\ -\ 6.png);
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    padding: 20px;
 
+}
+p{
+    color: rgb(255, 255, 255);
+    height: 50px;
+}
+span{
+    color: blueviolet;
+}
+.logo{
+    height: 150px;
+    padding: 250px;
+}
+
+.fras{
+    padding-left: 15px;
+    color: white;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button{
+  background-color: #ffffff;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:flex;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-top: 3rem;
+}
+
+.botao-icones {
+    padding-left: 15px;
+    display: flex;
+    align-items:center;
+    gap: 60px;
+}
+
+.botao-icones img{
+    width: 100px;
+    height: auto;
+    padding-top: 3rem;
+}
